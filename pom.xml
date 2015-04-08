@@ -7,7 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>restapi Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-	<repositories>
+	
+	
+	<AAAArepositories>
 		<repository>
 			<id>maven2-repository.java.net</id>
 			<name>Java.net Repository for Maven</name>
