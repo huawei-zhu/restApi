@@ -1,7 +1,7 @@
 echo "begin to execute script"
 
 {
-	git remote add upstream "git@github.com:huawei-zhu/restApi.git"
+	git remote add upstream "git@github.com:lefengOD/restApi.git"
 } || {
 	echo "remote upstream already exists"
 }
